@@ -1,8 +1,12 @@
-.header {
-  background: aqua;
-  color: darkblue;
 }
 .colortext {
   background: orange;
   color: darkblue;
+}
+.header {
+  font-family: 'Roboto', sans-serif;
+}
+.tx {
+  font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
